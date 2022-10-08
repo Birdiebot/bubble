@@ -2,35 +2,35 @@ repositories:
   bubble_interface:
     type: git
     url: git@github.com:Birdiebot/bubble_interface.git
-    version: main
+    version: master
   bubble_core:
     type: git
     url: git@github.com:Birdiebot/bubble_core.git
-    version: main
+    version: master
   bubble_camera:
     type: git
     url: git@github.com:Birdiebot/bubble_camera.git
-    version: main
+    version: master
   bubble_detector:
     type: git
     url: git@github.com:Birdiebot/bubble_detector.git
-    version: main
+    version: master
   bubble_contrib:
     type: git
     url: git@github.com:Birdiebot/bubble_contrib.git
-    version: main
+    version: master
   bubble_navigation:
     type: git
     url: git@github.com:Birdiebot/bubble_navigation.git
-    version: main
+    version: master
   bubble_bringup:
     type: git
     url: git@github.com:Birdiebot/bringup/bubble_bringup.git
-    version: main
+    version: master
 
   # The repository is a resource folder
   # You can open annotations if you want to test resource
   bubble_resources:
     type: git
     url: git@github.com:Birdiebot/bubble_resources.git
-    version: main
+    version: master
