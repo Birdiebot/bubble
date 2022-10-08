@@ -1,36 +1,36 @@
 repositories:
   bubble_interface:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_interface.git
+    url: git@github.com:Birdiebot/bubble_interface.git
     version: main
   bubble_core:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_core.git
+    url: git@github.com:Birdiebot/bubble_core.git
     version: main
   bubble_camera:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_camera.git
+    url: git@github.com:Birdiebot/bubble_camera.git
     version: main
   bubble_detector:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_detector.git
+    url: git@github.com:Birdiebot/bubble_detector.git
     version: main
   bubble_contrib:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_contrib.git
+    url: git@github.com:Birdiebot/bubble_contrib.git
     version: main
   bubble_navigation:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_navigation.git
+    url: git@github.com:Birdiebot/bubble_navigation.git
     version: main
   bubble_bringup:
     type: git
-    url: git@birdiebot.top:btp_pl/bringup/bubble_bringup.git
+    url: git@github.com:Birdiebot/bringup/bubble_bringup.git
     version: main
 
   # The repository is a resource folder
   # You can open annotations if you want to test resource
   bubble_resources:
     type: git
-    url: git@birdiebot.top:btp_pl/bubble_resources.git
+    url: git@github.com:Birdiebot/bubble_resources.git
     version: main
