@@ -89,6 +89,6 @@ Bubble的不同部分在不同的仓库中进行维护，你可以灵活的组�
 # 许可证信息
 Bubble参考和使用的其他项目您可以在[这里](https://birdiebot.github.io/bubble_documentation/resources/%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE.html)找到。
 
-Bubble项目是根据GNU3.0许可证获得许可的。
+Bubble项目是根据GNU AGPL3.0许可证获得许可的。
 
 上海工程技术大学学生科创中心机械创新基地木鸢birdiebot战队版权所有。
